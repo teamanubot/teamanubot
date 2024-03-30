@@ -6,5 +6,7 @@
 
 My Github Stats
 -----
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teamanubot&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teamanubot&langs_count=5&show_icons=true&theme=radical)
+<p align="center">
+    <img height="50%" width="auto" src =":https://github-readme-stats.vercel.app/api?username=teamanubot&show_icons=true&theme=radical">
+    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=teamanubot&langs_count=5&show_icons=true&theme=radical">
+</p>
