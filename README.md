@@ -33,9 +33,9 @@ Sosial Media
     </a>
     <a href="https://www.gitlab.com/teamanubot" target="_blank" rel="noreferrer">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://images.ctfassets.net/xz1dnu24egyd/4V92fFTJOIlTPHHzSdfxem/3fdc9f0d82f08ed4c355c6e4126b870c/gitlab-logo-200.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://images.ctfassets.net/xz1dnu24egyd/4b0ptGEn4KwJpU7XnE6XyP/17537581704f721fd4864bcc86eb7ed1/gitlab-logo-100.svg" />
-            <img src="https://images.ctfassets.net/xz1dnu24egyd/1jFYOufBZ1ib2PLP9YI45r/5f67fe4a4b32a0ff5e012cb35e3272f3/gitlab-logo-100.svg" width="40" height="40" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://images.ctfassets.net/xz1dnu24egyd/5VNS0QDlyHhsJnrAv9uO53/e4c4ade0e9a25c33c13cda7b5c6be67c/gitlab-logo-700.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://images.ctfassets.net/xz1dnu24egyd/3JZABhkTjUT76LCIclV7sH/17a92be9bce78c2adcc43e23aabb7ca1/gitlab-logo-500.svg" />
+            <img src="https://images.ctfassets.net/xz1dnu24egyd/3JZABhkTjUT76LCIclV7sH/17a92be9bce78c2adcc43e23aabb7ca1/gitlab-logo-500.svg" width="40" height="40" />
         </picture>
     </a>
 </p>
