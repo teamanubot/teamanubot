@@ -7,6 +7,6 @@
 My Github Stats
 -----
 <p align="center">
-    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=teamanubot&show_icons=true&theme=radical">
-    <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=teamanubot&langs_count=5&show_icons=true&theme=radical&layout=compact">
+    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=teamanubot&show_icons=true&theme=radical&hide_border=true&hide=issues,contribs">
+    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=teamanubot&langs_count=5&show_icons=true&theme=radical&layout=compact">
 </p>
