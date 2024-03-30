@@ -35,7 +35,7 @@ Sosial Media
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://images.ctfassets.net/xz1dnu24egyd/5VNS0QDlyHhsJnrAv9uO53/e4c4ade0e9a25c33c13cda7b5c6be67c/gitlab-logo-700.svg" />
             <source media="(prefers-color-scheme: light)" srcset="https://images.ctfassets.net/xz1dnu24egyd/3JZABhkTjUT76LCIclV7sH/17a92be9bce78c2adcc43e23aabb7ca1/gitlab-logo-500.svg" />
-            <img src="https://images.ctfassets.net/xz1dnu24egyd/3JZABhkTjUT76LCIclV7sH/17a92be9bce78c2adcc43e23aabb7ca1/gitlab-logo-500.svg" width="45" height="auto" />
+            <img src="https://images.ctfassets.net/xz1dnu24egyd/3JZABhkTjUT76LCIclV7sH/17a92be9bce78c2adcc43e23aabb7ca1/gitlab-logo-500.svg" width="49" height="auto" />
         </picture>
     </a>
 </p>
