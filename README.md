@@ -24,6 +24,8 @@ Sosial Media
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="60" height="60" />
         </picture>
     </a>
+    <a> 
+    </a>
     <a href="https://www.instagram.com/rivaimunte02" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
