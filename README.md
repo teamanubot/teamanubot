@@ -8,11 +8,27 @@
 
 Statistik Github
 -----
-<p align="center">
-    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=teamanubot&langs_count=6&show_icons=true&theme=radical&layout=compact"><br>
-    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=teamanubot&show_icons=true&theme=radical&hide_border=true&hide=issues,contribs"><br>
-    <img src ="https://github-readme-streak-stats.herokuapp.com/?user=teamanubot&theme=radical">
-</p>
+<details>
+    <summary>TeamAnuBot's GitHub Stats</summary>
+    <table style="width:100%">
+        <tr>
+            <th><img src ="https://github-readme-stats.vercel.app/api?username=teamanubot&show_icons=true&theme=radical&hide_border=true&hide=issues,contribs"></th>
+            <th><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=teamanubot&size_weight=0.5&count_weight=0.5&langs_count=10&show_icons=true&theme=radical&layout=compact"></th>
+        </tr>
+        <p align="center">
+            <tr>
+                <th><img src ="https://github-readme-streak-stats.herokuapp.com/?user=teamanubot&theme=radical"></th>
+            </tr>
+        </p>
+    </table>
+</details>
+
+📈 My GitHub Activity:
+-----
+<details>
+  <summary>TeamAnuBot's GitHub Activity</summary>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="TeamAnuBot's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=teamanubot&theme=chartreuse-dark&custom_title=TeamAnuBot's%20contribution%20graph&hide_border=true" /></a>
+</details>
 
 Sosial Media
 -----
