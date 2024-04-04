@@ -21,24 +21,28 @@
     <summary>TeamAnuBot's GitHub Stats</summary>
     <table style="width:100%">
         <tr>
-            <th>
-                <a href="https://teamanubot.github.io">
-                    <img src ="https://github-readme-stats.vercel.app/api?username=teamanubot&show_icons=true&theme=radical&hide_border=true&hide=issues,contribs" />
-                </a>
+            <th style="position:relative;">
+                <div style="position:absolute; left:50%; transform:translateX(-50%);">
+                    <a href="https://teamanubot.github.io">
+                        <img src="https://github-readme-stats.vercel.app/api?username=teamanubot&show_icons=true&theme=radical&hide_border=true&hide=issues,contribs" />
+                    </a>
+                </div>
             </th>
-            <th>
-                <a href="https://teamanubot.github.io">
-                    <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=teamanubot&size_weight=0.5&count_weight=0.5&langs_count=10&show_icons=true&theme=radical&layout=compact" />
-                </a>
+            <th style="position:relative;">
+                <div style="position:absolute; left:50%; transform:translateX(-50%);">
+                    <a href="https://teamanubot.github.io">
+                        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teamanubot&size_weight=0.5&count_weight=0.5&langs_count=10&show_icons=true&theme=radical&layout=compact" />
+                    </a>
+                </div>
             </th>
         </tr>
         <tr>
-            <th>
-                <center>
+            <th colspan="2" style="position:relative;">
+                <div style="position:absolute; left:50%; transform:translateX(-50%);">
                     <a href="https://teamanubot.github.io">
-                        <img src ="https://github-readme-streak-stats.herokuapp.com/?user=teamanubot&theme=radical" />
+                        <img src="https://github-readme-streak-stats.herokuapp.com/?user=teamanubot&theme=radical" />
                     </a>
-                </center>
+                </div>
             </th>
         </tr>
     </table>
