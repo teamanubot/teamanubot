@@ -12,11 +12,11 @@ Statistik Github
     <summary>TeamAnuBot's GitHub Stats</summary>
     <table style="width:100%">
         <tr>
-            <th><img src ="https://github-readme-stats.vercel.app/api?username=teamanubot&show_icons=true&theme=radical&hide_border=true&hide=issues,contribs"></th>
-            <th><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=teamanubot&size_weight=0.5&count_weight=0.5&langs_count=10&show_icons=true&theme=radical&layout=compact"></th>
+            <th><a href="https://teamanubot.github.io"><img src ="https://github-readme-stats.vercel.app/api?username=teamanubot&show_icons=true&theme=radical&hide_border=true&hide=issues,contribs" /></a></th>
+            <th><a href="https://teamanubot.github.io"><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=teamanubot&size_weight=0.5&count_weight=0.5&langs_count=10&show_icons=true&theme=radical&layout=compact" /></a></th>
         </tr>
         <p align="center">
-            <th><img src ="https://github-readme-streak-stats.herokuapp.com/?user=teamanubot&theme=radical"></th>
+            <th><a href="https://teamanubot.github.io"><img src ="https://github-readme-streak-stats.herokuapp.com/?user=teamanubot&theme=radical" /></a></th>
         </p>
     </table>
 </details>
@@ -25,7 +25,7 @@ Statistik Github
 -----
 <details>
   <summary>TeamAnuBot's GitHub Activity</summary>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="TeamAnuBot's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=teamanubot&theme=chartreuse-dark&custom_title=TeamAnuBot's%20contribution%20graph&hide_border=true" /></a>
+    <a href="https://teamanubot.github.io"><img alt="TeamAnuBot's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=teamanubot&theme=chartreuse-dark&custom_title=TeamAnuBot's%20contribution%20graph&hide_border=true" /></a>
 </details>
 
 Sosial Media
