@@ -46,7 +46,9 @@
 -----
 <details>
   <summary>TeamAnuBot's GitHub Activity</summary>
-    <a href="https://teamanubot.github.io"><img alt="TeamAnuBot's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=teamanubot&theme=chartreuse-dark&custom_title=TeamAnuBot's%20contribution%20graph&hide_border=true" /></a>
+    <a href="https://teamanubot.github.io">
+        <img alt="TeamAnuBot's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=teamanubot&theme=chartreuse-dark&custom_title=TeamAnuBot's%20contribution%20graph&hide_border=true" />
+    </a>
 </details>
 
 Sosial Media
