@@ -32,15 +32,15 @@
                 </a>
             </th>
         </tr>
-        <p align="center">
-            <tr>
-                <th>
+        <tr>
+            <th>
+                <center>
                     <a href="https://teamanubot.github.io">
                         <img src ="https://github-readme-streak-stats.herokuapp.com/?user=teamanubot&theme=radical" />
                     </a>
-                </th>
-            </tr>
-        </p>
+                </center>
+            </th>
+        </tr>
     </table>
 </details>
 
