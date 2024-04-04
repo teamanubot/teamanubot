@@ -16,9 +16,7 @@ Statistik Github
             <th><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=teamanubot&size_weight=0.5&count_weight=0.5&langs_count=10&show_icons=true&theme=radical&layout=compact"></th>
         </tr>
         <p align="center">
-            <tr>
-                <img src ="https://github-readme-streak-stats.herokuapp.com/?user=teamanubot&theme=radical">
-            </tr>
+            <th><img src ="https://github-readme-streak-stats.herokuapp.com/?user=teamanubot&theme=radical"></th>
         </p>
     </table>
 </details>
