@@ -4,9 +4,11 @@
     </a>
 </div>
 
+-----
+
 <p align="center">
     <a href="https://teamanubot.github.io">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&pause=1000&color=F70606&center=true&random=false&&width=900&height=40&lines=Hai+saya+Rivai;Kamu+bisa+panggil+saya+Munte;Hanya+manusia+biasa+yang+penasaran" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira&size=34&pause=1000&color=F70606&center=true&random=false&&width=900&height=40&lines=Hai+saya+Rivai;Kamu+bisa+panggil+saya+Munte;Hanya+manusia+biasa+yang+penasaran" alt="Typing SVG" />
     </a>
 </p>
 
