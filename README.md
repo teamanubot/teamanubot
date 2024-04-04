@@ -1,27 +1,45 @@
+<div align="center">
+    <a href="https://teamanubot.github.io">
+        <img src="https://media.tenor.com/2h5AqdpGfi0AAAAC/arlecchino-genshin-impact.gif" alt="Main Gif" />
+    </a>
+</div>
+
 <p align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70606&center=true&random=false&width=435&lines=Hai+saya+Rivai;Kamu+bisa+panggil+saya+Munte;Hanya+manusia+biasa+yang+penasaran" alt="Typing SVG" />
+    <a href="https://teamanubot.github.io">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&pause=1000&color=F70606&center=true&random=false&&width=900&height=40&lines=Hai+saya+Rivai;Kamu+bisa+panggil+saya+Munte;Hanya+manusia+biasa+yang+penasaran" alt="Typing SVG" />
     </a>
 </p>
 
 -----
 
-Statistik Github
+📊 My Statistik Github
 -----
 <details>
     <summary>TeamAnuBot's GitHub Stats</summary>
     <table style="width:100%">
         <tr>
-            <th><a href="https://teamanubot.github.io"><img src ="https://github-readme-stats.vercel.app/api?username=teamanubot&show_icons=true&theme=radical&hide_border=true&hide=issues,contribs" /></a></th>
-            <th><a href="https://teamanubot.github.io"><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=teamanubot&size_weight=0.5&count_weight=0.5&langs_count=10&show_icons=true&theme=radical&layout=compact" /></a></th>
+            <th>
+                <a href="https://teamanubot.github.io">
+                    <img src ="https://github-readme-stats.vercel.app/api?username=teamanubot&show_icons=true&theme=radical&hide_border=true&hide=issues,contribs" />
+                </a>
+            </th>
+            <th>
+                <a href="https://teamanubot.github.io">
+                    <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=teamanubot&size_weight=0.5&count_weight=0.5&langs_count=10&show_icons=true&theme=radical&layout=compact" />
+                </a>
+            </th>
         </tr>
         <p align="center">
-            <th><a href="https://teamanubot.github.io"><img src ="https://github-readme-streak-stats.herokuapp.com/?user=teamanubot&theme=radical" /></a></th>
+            <th>
+                <a href="https://teamanubot.github.io">
+                    <img src ="https://github-readme-streak-stats.herokuapp.com/?user=teamanubot&theme=radical" />
+                </a>
+            </th>
         </p>
     </table>
 </details>
 
-📈 My GitHub Activity:
+📈 My GitHub Activity
 -----
 <details>
   <summary>TeamAnuBot's GitHub Activity</summary>
