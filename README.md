@@ -69,34 +69,34 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teamanubot&theme=radical" alt="Profile Details" width="100%" />
-</div>
-
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=teamanubot&theme=radical" alt="GitHub Stats" width="49%" />
-    <img src="https://streak-stats.demolab.com?user=teamanubot&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
-</div>
-
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teamanubot&theme=radical" alt="Top Languages by Repo" width="32.5%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=teamanubot&theme=radical" alt="Top Languages by Commit" width="32.5%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=teamanubot&theme=radical&utcOffset=7" alt="Productive Time" width="32.5%" />
-</div>
+<details>
+    <div align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teamanubot&theme=radical" alt="Profile Details" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=teamanubot&theme=radical" alt="GitHub Stats" width="49%" />
+        <img src="https://streak-stats.demolab.com?user=teamanubot&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teamanubot&theme=radical" alt="Top Languages by Repo" width="32.5%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=teamanubot&theme=radical" alt="Top Languages by Commit" width="32.5%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=teamanubot&theme=radical&utcOffset=7" alt="Productive Time" width="32.5%" />
+    </div>
+</details>
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-    <img src="https://github-profile-trophy-38qurtwyt-team-anu-bot.vercel.app/?username=teamanubot&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="100%" />
-</div>
+<details>
+    <div align="center">
+        <img src="https://github-profile-trophy-38qurtwyt-team-anu-bot.vercel.app/?username=teamanubot&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="100%" />
+    </div>
+</details>
 
 ## 📈 Contribution Activity
 
-<div align="center">
-    <a href="https://teamanubot.github.io">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=teamanubot&theme=redical&custom_title=TeamAnuBot's%20Contribution%20Graph&hide_border=true&bg_color=141321&color=F70606&line=F70606&point=FFFFFF" alt="Contribution Graph" width="100%" />
-    </a>
-</div>
+<details>
+    <div align="center">
+        <a href="https://teamanubot.github.io">
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=teamanubot&theme=redical&custom_title=TeamAnuBot's%20Contribution%20Graph&hide_border=true&bg_color=141321&color=F70606&line=F70606&point=FFFFFF" alt="Contribution Graph" width="100%" />
+        </a>
+    </div>
+</details>
 
 ## 🌐 Connect With Me
 
