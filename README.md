@@ -93,7 +93,7 @@
 <details>
     <div align="center">
         <a href="https://teamanubot.github.io">
-            <img src="https://github-readme-activity-graph-l3gpxn268-team-anu-bot.vercel.app/graph?username=teamanubot&theme=redical&custom_title=TeamAnuBot's%20Contribution%20Graph&hide_border=true&bg_color=141321&color=F70606&line=F70606&point=FFFFFF" alt="Contribution Graph" width="100%" />
+            <img src="https://github-readme-activity-graph-l3gpxn268-team-anu-bot.vercel.app/graph?username=teamanubot&theme=redical&custom_title=TeamAnuBot%27s%20Contribution%20Graph&hide_border=true&bg_color=141321&color=F70606&line=F70606&point=FFFFFF" alt="Contribution Graph" width="100%" />
         </a>
     </div>
 </details>
