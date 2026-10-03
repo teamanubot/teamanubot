@@ -84,7 +84,7 @@
 
 <details>
     <div align="center">
-        <img src="https://github-profile-trophy-o92moek6c-team-anu-bot.vercel.app/?username=teamanubot&theme=dracula" alt="GitHub Trophies" width="100%" />
+        <img src="https://github-profile-trophy-eight-umber.vercel.app/?username=teamanubot&theme=dracula" alt="GitHub Trophies" width="100%" />
     </div>
 </details>
 
