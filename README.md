@@ -14,7 +14,7 @@
 
 <p align="center">
     <a href="https://teamanubot.github.io"><img src="https://img.shields.io/badge/Website-teamanubot.github.io-F70606?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-    <img src="https://komarev.com/ghpvc/?username=teamanubot&style=for-the-badge&color=F70606" alt="Profile Views" />
+    <img src="https://hits.sh/github.com/teamanubot.svg?style=for-the-badge&color=F70606&label=Profile%20Views" alt="Profile Views" />
 </p>
 
 ---
